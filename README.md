@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Euan
+# 👋 Hi, I'm FANYUANHE（Euan）
 
 I'm a passionate **Web Front-End / Full-Stack Developer** with 10 years of experience based in **Beijing, China** 🇨🇳.  
 Now relocating to **New Zealand** 🇳🇿 and open to global tech opportunities.
@@ -16,13 +16,29 @@ Now relocating to **New Zealand** 🇳🇿 and open to global tech opportunities
     Global leader in e-commerce, cloud computing, and digital infrastructure.
   - [**Meituan**](https://www.meituan.com/en-US/about-us)  
     Major platform for food delivery, local services, and on-demand consumer technology.
-  - [**KE Holdings**](https://investors.ke.com)  
+  - [**KE Holdings (Beike)**](https://investors.ke.com)  
     Technology-driven real estate platform integrating online and offline brokerage services.
 - 📜 Obtained **ACS Skills Assessment** for:
   - 261212 – Web Developer  
   - 261312 – Developer Programmer  
   - 261313 – Software Engineer  
-- ✈️ Currently moving to New Zealand for postgraduate study and job-seeking
+- ✈️ Currently moving to New Zealand for postgraduate study and job-seeking  
+- ☕ I love clean code, smart UI interactions, and turning designs into delightful user experiences.
+
+---
+
+## 🔧 Featured Projects
+
+- [**Modern Portfolio Site**](https://github.com/yourusername/portfolio)  
+  A personal portfolio site built with React + Tailwind CSS, including dark mode, mobile responsiveness, and contact form.
+
+- [**Real-Time Chat App**](https://github.com/yourusername/realtime-chat)  
+  A full-stack chat app using Vue, Node.js, WebSocket, and MongoDB. Features user authentication and emoji reactions.
+
+- [**H5 Campaign Generator**](https://github.com/yourusername/h5-generator)  
+  Internal tool used for building mobile marketing pages with drag-and-drop UI and performance monitoring integration.
+
+> More projects coming soon...
 
 ---
 
@@ -48,6 +64,8 @@ Now relocating to **New Zealand** 🇳🇿 and open to global tech opportunities
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-006400?logo=data&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-00A9E0?logo=charles&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-FFCC00?logo=thunder&logoColor=black)
+
 ---
 
 ## 🌏 I'm Currently
@@ -55,6 +73,7 @@ Now relocating to **New Zealand** 🇳🇿 and open to global tech opportunities
 - 🔍 Seeking **Front-End / Full-Stack** developer roles (React/Vue + Node.js)
 - 💬 Open to collaboration or open source projects
 - 📫 Reach me at **fyh1477596895@gmail.com**
+- 📄 [Download My Resume (PDF)](https://github.com/yourusername/your-repo/blob/main/resume.pdf) *(replace with actual link)*
 
 ---
 
